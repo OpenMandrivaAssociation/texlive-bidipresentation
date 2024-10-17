@@ -3,7 +3,7 @@ Version:	35267
 Release:	2
 Summary:	Experimental bidi presentation
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bidipresentation
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bidipresentation
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bidipresentation.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bidipresentation.doc.r%{version}.tar.xz
